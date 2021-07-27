@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Himanshu Kumar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center">Learning and upgrading my self day by day!</h2>
+<h2 align="center">Learning and upgrading MySelf Day-By-Day !</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
@@ -53,4 +53,4 @@
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himanshukumar9&theme=prussian&hide_border=true)](https://git.io/himanshukumar9)
    <br />
    <br />
-  THANKYOU FOR VISITING !
+  <h3>THANKYOU FOR VISITING !</h3>
