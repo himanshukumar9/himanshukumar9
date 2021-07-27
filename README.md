@@ -13,7 +13,7 @@
 
  
 
-👩‍💻 Nowadays, I’m learning andriod dev and web-dev. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/abrojackhimanshu/) and always up for quick coding brainstorming sessions! 
+👩‍💻 Nowadays, I’m learning andriod dev and web-dev. I regularly practice DSA questions on [**LeetCode**] , [**GeeksForGeeks**] and always up for quick coding brainstorming sessions! 
  
 
 ⚡ Fun fact: I am in Computer Engineering stream, but most of the credit goes to Google and Stack Overflow 😪
