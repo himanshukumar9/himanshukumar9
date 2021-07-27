@@ -53,4 +53,4 @@
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himanshukumar9&theme=prussian&hide_border=true)](https://git.io/himanshukumar9)
    <br />
    <br />
-   ![Skyline](https://github.com/himanshukumar9/blob/master/github-metrics.svg)
+  // ![Skyline](https://github.com/himanshukumar9/blob/master/github-metrics.svg)
