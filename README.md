@@ -47,10 +47,10 @@
 
 <br/>
 
-  [![Himanshu kumar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abrojackhimanshu&theme=xcode)](https://git.io/abrojackhimanshu)
+  [![Himanshu kumar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=himanshukumar9&theme=xcode)](https://git.io/himanshukumar9)
    <br />
    <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abrojackhimanshu&theme=prussian&hide_border=true)](https://git.io/abrojackhimanshu)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himanshukumar9&theme=prussian&hide_border=true)](https://git.io/himanshukumar9)
    <br />
    <br />
    ![Skyline](https://github.com/himanshukumar9/himanshukumar9/blob/master/github-metrics.svg)
