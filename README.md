@@ -55,7 +55,7 @@
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himanshukumar9&theme=prussian&hide_border=true)](https://git.io/himanshukumar9)
    <br />
    <br />
-   ![My stats](https://github-readme-stats.vercel.app/api?username=himanshukumar9)
+  <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=himanshukumar9) -->
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukundob451&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukumar9"/></td></tr></table>
   
