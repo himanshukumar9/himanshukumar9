@@ -64,10 +64,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshukumar9&theme=gruvbox)](https://github.com/himanshukumar9/github-profile-trophy)
 
-### Github Contributionas:-
 
+<details open>
+   <summary>🚀 <b>Github Contributions</b>:</summary>
+   <br>
+   <p align="left">
   [![Himanshu kumar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=himanshukumar9&theme=xcode)](https://git.io/himanshukumar9)
-  
+  </p>
+   </details>
   <br />
    <br />
 
