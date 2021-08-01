@@ -60,9 +60,6 @@
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar9&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/himanshukumar9/github-readme-stats)
   <br /> -->
-### GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=himanshukumar9&theme=gruvbox)](https://github.com/himanshukumar9/github-profile-trophy)
 
 
 
@@ -70,6 +67,11 @@
   [![Himanshu kumar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=himanshukumar9&theme=xcode)](https://git.io/himanshukumar9)
  
   <br />
+  ### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanshukumar9&theme=gruvbox)](https://github.com/himanshukumar9/github-profile-trophy)
+
+   <br />
    <br />
 
    
