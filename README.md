@@ -5,7 +5,7 @@
 
    [**Its Great To Have you here**]
    
-   ## :wave: About Me 
+   ## :wave: About Me :-
 <a href="https://twitter.com/Himansh21044297" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://linkedin.com/in/himanshukumar-797904" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 👩‍🎓 Hey! I'm Himanshu Kumar, A 20 year old engineering undergrad at [**Sjb institute of technology,banglore**](https://https://https://sjbit.edu.in/index.html) 
 
