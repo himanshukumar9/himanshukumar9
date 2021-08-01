@@ -58,6 +58,7 @@
 //### Most Used Languages
 <table><tr><td>
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himanshukumar9&theme=prussian&hide_border=true)](https://git.io/himanshukumar9)
+   </td> </td>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar9&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/himanshukumar9/github-readme-stats)
   <br />
    </td></tr></table>
