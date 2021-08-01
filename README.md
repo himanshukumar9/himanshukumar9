@@ -56,12 +56,12 @@
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukundob451&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukumar9"/></td></tr></table> -->
   
 //### Most Used Languages
-<table><tr><td>
+
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himanshukumar9&theme=prussian&hide_border=true)](https://git.io/himanshukumar9)
    </td> </td>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar9&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/himanshukumar9/github-readme-stats)
   <br />
-   </td></tr></table>
+   
 ### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshukumar9&theme=gruvbox)](https://github.com/himanshukumar9/github-profile-trophy)
