@@ -66,9 +66,8 @@
 
 
 
-   <p align="left">
+   
   [![Himanshu kumar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=himanshukumar9&theme=xcode)](https://git.io/himanshukumar9)
-  </p>
  
   <br />
    <br />
