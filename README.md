@@ -21,7 +21,7 @@
 
 ⚡ Fun fact: I am in Computer Engineering stream, but most of the credit goes to Google and Stack Overflow 😪
   
-<a href="mailtoabrojackhimanshu@gmail.com:@gmail.com">
+<a href="mail:toabrojackhimanshu@gmail.com:@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br> 
