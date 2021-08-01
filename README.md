@@ -47,8 +47,8 @@
  
 
 <br/>
-   [My stats](https://github-readme-stats.vercel.app/api?username=himanshukumar9)
-<br/>
+   
+
   [![Himanshu kumar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=himanshukumar9&theme=xcode)](https://git.io/himanshukumar9)
    <br />
    <br />
