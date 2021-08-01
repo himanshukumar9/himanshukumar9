@@ -54,13 +54,13 @@
   <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=himanshukumar9) -->
 
 <table><tr><td><img src="http://github-readme-streak-stats.herokuapp.com?user=himanshukumar9&theme=prussian&hide_border=true"/></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar9&layout=compact&theme=vision-friendly-dark&langs_count=6"/></td></tr></table> 
-  
+  <!--
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himanshukumar9&theme=prussian&hide_border=true)](https://git.io/himanshukumar9)
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar9&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/himanshukumar9/github-readme-stats)
   <br />
-   
+    -->
 ### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshukumar9&theme=gruvbox)](https://github.com/himanshukumar9/github-profile-trophy)
