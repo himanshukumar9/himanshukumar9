@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
- <h3> [**Its Great To Have you here**] </h3>
+ <h3> Its Great To Have you here </h3>
    
    ## :wave: About Me :-
 <a href="https://twitter.com/Himansh21044297" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80" alt="Twitter" align="right"></a>
