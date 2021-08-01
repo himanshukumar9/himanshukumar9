@@ -37,7 +37,11 @@
  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  
+  <p align="left">
+  <img src="https://img.shields.io/badge/flutter-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+  <!--   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
+
+</p>
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
