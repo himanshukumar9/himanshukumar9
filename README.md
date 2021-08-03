@@ -73,7 +73,7 @@
  
   <br>
   <br>
-  ### GitHub Trophies
+  <h4> GitHub Trophies </h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshukumar9&theme=gruvbox)](https://github.com/himanshukumar9/github-profile-trophy)
 
@@ -82,4 +82,4 @@
 
    
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=himanshukumar9.himanshukumar9)
-  <h4>THANKYOU FOR VISITING !</h4>
+  <h5> THANKYOU FOR VISITING ! </h5>
