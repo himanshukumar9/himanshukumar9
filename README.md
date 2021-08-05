@@ -1,4 +1,4 @@
-<h1 align="center">Hie, I'm Himanshu Kumar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">Hi, I'm Himanshu Kumar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">Learning And Upgrading MySelf Day-By-Day !</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
