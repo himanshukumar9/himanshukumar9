@@ -25,7 +25,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br> 
-
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshukumar9&label=Profile%20views&color=6805D3&style=flat" alt="himanshu kumar" /> </p></h3>
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
