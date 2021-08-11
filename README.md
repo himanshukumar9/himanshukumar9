@@ -21,12 +21,12 @@
 
 ⚡ Fun fact: I am in Computer Engineering stream, but most of the credit goes to Google and Stack Overflow 😪
   
-<a href="mail:toabrojackhimanshu@gmail.com:@gmail.com">
+<!--a href="mail:toabrojackhimanshu@gmail.com:@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a> -->
 <br> 
 <!-- <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshukumar9&label=Profile%20views&color=6805D3&style=flat" alt="himanshu kumar" /> </p></h3> -->
-## 🛠 &nbsp;Tech Stack
+##🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   
