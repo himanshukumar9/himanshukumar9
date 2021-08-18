@@ -9,7 +9,7 @@
 <a href="https://twitter.com/Himansh21044297" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80" alt="Twitter" align="right"></a>
 <a href="https://linkedin.com/in/himanshukumar-797904" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
 
-<!--<a href="https://gmail.com/abrojackhimanshu@gmail.com" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-gmail-512.png" height="80px" width="80px" alt="gmail" align="right"></a> -->
+
 👩‍🎓 Hey! I'm Himanshu Kumar, A 20 year old engineering undergrad at [**SJB institute Of Technology,Banglore,INDIA**](https://https://https://sjbit.edu.in/index.html) 
 
 :octocat: I have a soft spot for technology and communities 💖 I am a quick learner and always intrested in learning the cutting edge techs. :octocat:! 
@@ -21,11 +21,9 @@
 
 ⚡ Fun fact: I am in Computer Engineering stream, but most of the credit goes to Google and Stack Overflow 😪
   
-<!--a href="mail:toabrojackhimanshu@gmail.com:@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a> -->
+
 <br> 
-<!-- <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshukumar9&label=Profile%20views&color=6805D3&style=flat" alt="himanshu kumar" /> </p></h3> -->
+
 ##🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
@@ -56,15 +54,12 @@
 
   
 
-  <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=himanshukumar9) -->
+ 
 
 <table><tr><td><img src="http://github-readme-streak-stats.herokuapp.com?user=himanshukumar9&theme=prussian&hide_border=true"/></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar9&layout=compact&theme=vision-friendly-dark&langs_count=6"/></td></tr></table> 
   
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himanshukumar9&theme=prussian&hide_border=true)](https://git.io/himanshukumar9)
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar9&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/himanshukumar9/github-readme-stats)
-  <br /> -->
+
 
 
 
