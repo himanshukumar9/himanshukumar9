@@ -12,7 +12,7 @@
 
 👩‍🎓 Hey! I'm Himanshu Kumar, A 20 year old engineering undergrad at [**SJB institute Of Technology,Banglore,INDIA**](https://https://https://sjbit.edu.in/index.html) 
 
-:octocat: I have a soft spot for technology and communities 💖 I am a quick learner and always intrested in learning the cutting edge techs. :octocat:! 
+:octocat: I have a soft spot for technology and communities 💖 I am a quick learner and always intrested in learning the cutting edge techs. :octocat: 
 
  
 
