@@ -24,7 +24,7 @@
 
 <br> 
 
-##🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   
